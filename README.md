@@ -1,19 +1,28 @@
-# Traffic Signal Classification
+# 🚦 Traffic Signal Classification
 
-## Overview
-This project uses Machine Learning and Computer Vision to classify traffic signals from images.
+## 📌 Overview
+This project focuses on **Traffic Signal Classification** using image processing and machine learning techniques.  
+The system is designed to identify and classify traffic signals from images, which can be useful in autonomous driving systems and smart transportation solutions.
 
-## Features
-- Image preprocessing
-- Traffic signal classification
-- Model prediction on test images
+---
 
-## Technologies Used
-- Python
-- OpenCV
+## 🎯 Objective
+- Detect and classify traffic signal images
+- Apply image preprocessing techniques
+- Use machine learning / deep learning concepts for classification
+- Build a simple, working prototype for academic project submission
+
+---
+
+## 🧠 Tech Stack
+- Python 🐍
+- OpenCV (Image Processing)
 - NumPy
-- Machine Learning / Deep Learning
+- Imutils
+- TensorFlow / Keras (if used)
+- Scikit-learn (if used)
+- Matplotlib
 
-## How to Run
-```bash
-python main.py
+---
+
+## 📂 Project Structure
